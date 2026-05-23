@@ -7,7 +7,7 @@ include __DIR__ . '/includes/header.php';
 <section class="page-head">
   <div class="eyebrow">The Pioneers</div>
   <h1>Founding <em>Members</em>.</h1>
-  <p>Meet the visionary student leaders who laid the foundation for the Cultural & Creative Society (CCS) at NIT Sikkim. While subsequent drafts of this portal will introduce active yearly student chapters, these are the pioneering founders who established our legacy.</p>
+  <p>Meet the visionary student leaders who laid the foundation for the Cultural & Creative Society (CCS) at NIT Sikkim.</p>
 </section>
 <section class="section">
   <div class="team-grid">
