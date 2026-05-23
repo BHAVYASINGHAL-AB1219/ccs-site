@@ -1,0 +1,238 @@
+{
+  "society": {
+    "name": "Cultural & Creative Society",
+    "shortName": "CCS",
+    "college": "National Institute of Technology Sikkim",
+    "tagline": "Where imagination meets expression.",
+    "established": "2025"
+  },
+  "about": {
+    "headline": "We are the heartbeat of campus culture.",
+    "intro": "The purpose of the newly formed Cultural and Creative Society at the National Institute of Technology (NIT) Sikkim is to serve as a central forum that promotes & preserves all cultural, creative, and technical student activities.",
+    "fullIntro": [
+      "The purpose of the newly formed Cultural and Creative Society at the National Institute of Technology (NIT) Sikkim is to serve as a central forum that promotes & preserves all cultural, creative, and technical student activities.",
+      "This society functions as an umbrella society for all existing student clubs and it's responsible for managing and coordinating a wide range of tasks. These responsibilities include planning the annual cultural calendar, reserving institute venues, managing publicity, and ensuring smooth coordination among the various clubs.",
+      "This structure is designed to provide a unified framework for all student-led activities, ensuring they are well-planned and executed efficiently. This structure ensures that all institute as well as external level activities, including fests, are coordinated and maintained by this society."
+    ],
+    "mission": "To serve as a central forum that promotes, preserves, and celebrates all cultural, creative, and technical student-led activities at the institute and external levels.",
+    "vision": "To build a unified and approachable platform that serves as the heart of student life at NIT Sikkim, by acting as a bridge between students, faculty, and administration, where ideas thrive, talents are celebrated, and challenges evolve into opportunities for growth.",
+    "highlights": [
+      {
+        "value": "8+",
+        "label": "Events hosted"
+      },
+      {
+        "value": "10",
+        "label": "Sub-clubs & circles"
+      },
+      {
+        "value": "100",
+        "label": "Active members"
+      },
+      {
+        "value": "1",
+        "label": "Year of legacy"
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "Ayush Bhushan",
+      "role": "President",
+      "img": "assets/img/team/Ayush.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Harshit Vyas",
+      "role": "Vice-President",
+      "img": "assets/img/team/Harshit.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Vaibhav Mishra",
+      "role": "Vice-President",
+      "img": "assets/img/team/Vaibhav.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Dibyajit Das Gupta",
+      "role": "General Secretary",
+      "img": "assets/img/team/Dibyajit.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Nirankush Bhardwaj",
+      "role": "General Secretary",
+      "img": "assets/img/team/Nirankush.JPG",
+      "instagram": "#"
+    },
+    {
+      "name": "Amit Raj",
+      "role": "Joint Secretary",
+      "img": "assets/img/team/amit.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Kabir Man Rai",
+      "role": "Convener",
+      "img": "assets/img/team/KABIR.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Ankit Patel",
+      "role": "Treasurer",
+      "img": "assets/img/team/Ankit.webp",
+      "instagram": "#"
+    },
+    {
+      "name": "Tanmoy Samanta",
+      "role": "Associate Treasurer",
+      "img": "assets/img/team/tanmoy_samanta.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Navnit Kumar Sharma",
+      "role": "Content Coordinator",
+      "img": "assets/img/team/Navnit.jpeg",
+      "instagram": "#"
+    },
+    {
+      "name": "Debanjana Sur",
+      "role": "Cultural Coordinator",
+      "img": "assets/img/team/Debanjana.jpeg",
+      "instagram": "#"
+    },
+    {
+      "name": "Muskan",
+      "role": "Event Coordinator",
+      "img": "assets/img/team/Muskan.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Daksh Bhardwaj",
+      "role": "Photography Coordinator",
+      "img": "assets/img/team/Dakshbhardwaj12.23.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Shibu Kumar",
+      "role": "Technical Coordinator",
+      "img": "assets/img/team/Shibu_B220149EC.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Fauzia Arshad",
+      "role": "Graphics Coordinator",
+      "img": "assets/img/team/Fauzia.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Shirshak Sinha",
+      "role": "Executive Member",
+      "img": "assets/img/team/Shirshak.jpeg",
+      "instagram": "#"
+    },
+    {
+      "name": "Sohit",
+      "role": "Executive Member",
+      "img": "assets/img/team/Sohit.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Sachin Kalyan",
+      "role": "Executive Member",
+      "img": "assets/img/team/Sachin.jpg",
+      "instagram": "#"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200",
+      "title": "Abhiyantran Opening Night",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200",
+      "title": "Battle of Bands",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=1200",
+      "title": "Spotlight Solo",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=1200",
+      "title": "Crowd Energy",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=1200",
+      "title": "Dance Wars",
+      "event": "Rhythms"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=1200",
+      "title": "Open Mic",
+      "event": "Verse Nights"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?w=1200",
+      "title": "Theatre Showcase",
+      "event": "Manchan"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=1200",
+      "title": "Art Exhibit",
+      "event": "Canvas"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200",
+      "title": "Closing Ceremony",
+      "event": "Abhiyantran 2026"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Inkwell — Annual Magazine 2025",
+      "type": "Magazine",
+      "date": "March 2025",
+      "cover": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=800",
+      "description": "A 96-page anthology of student poetry, photography and long-form essays.",
+      "link": "#"
+    },
+    {
+      "title": "Abhiyantran 2026 — Aftermovie Booklet",
+      "type": "Event Booklet",
+      "date": "February 2026",
+      "cover": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "description": "Behind-the-scenes look at our flagship cultural-tech fest.",
+      "link": "#"
+    },
+    {
+      "title": "Verse — Quarterly Zine",
+      "type": "Zine",
+      "date": "January 2025",
+      "cover": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800",
+      "description": "Short fiction and visual art from the campus underground.",
+      "link": "#"
+    },
+    {
+      "title": "Frame — Photo Journal",
+      "type": "Photo Book",
+      "date": "November 2024",
+      "cover": "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?w=800",
+      "description": "Year in pictures, curated by the CCS photography circle.",
+      "link": "#"
+    }
+  ],
+  "contact": {
+    "email": "ccs@nitsikkim.ac.in",
+    "address": "Student Activity Center, National Institute of Technology Sikkim, Ravangla, South Sikkim, 737139",
+    "socials": {
+      "instagram": "https://instagram.com/",
+      "youtube": "https://youtube.com/",
+      "linkedin": "https://linkedin.com/"
+    }
+  }
+}
