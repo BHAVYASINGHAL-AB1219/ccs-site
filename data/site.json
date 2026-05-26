@@ -35,6 +35,190 @@
       }
     ]
   },
+  "core_committee": [
+    {
+      "name": "Sohit",
+      "role": "President",
+      "roll": "B230030CS",
+      "img": "assets/img/team/Sohit.jpg",
+      "instagram": "#"
+    },
+    {
+      "name": "Rajat Malviya",
+      "role": "Vice President",
+      "roll": "B230080EE",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Sushil Kumar Gupta",
+      "role": "General Secretary",
+      "roll": "B230034CS",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Priyanshu Singh",
+      "role": "Treasurer",
+      "roll": "B230078EE",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Satvik Choudhary",
+      "role": "Convener",
+      "roll": "B230022CS",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Sachin Kalyan",
+      "role": "Joint Secretary",
+      "roll": "B230025CS",
+      "img": "assets/img/team/Sachin.jpg",
+      "instagram": "#"
+    }
+  ],
+  "coordinators": [
+    {
+      "name": "Kumar Sagar",
+      "role": "Content & Event Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Mudit Sharma",
+      "role": "Content & Cultural Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Bhavya Singhal",
+      "role": "Web Development Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Dinesh Saini",
+      "role": "Web Development Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Rythm Longia",
+      "role": "Web Development Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Ayush Raj Singh",
+      "role": "Alumni Interaction Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Kumar Satyam Sarvesh",
+      "role": "Alumni Interaction Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Shobit",
+      "role": "Alumni Interaction Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Swastika Bauri",
+      "role": "Cultural Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Aman Kumar",
+      "role": "Event & Photography Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Kartikeya Shahi",
+      "role": "Event & Magazine Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Aryan Singh",
+      "role": "Executive Member",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Divyanshi Katihar",
+      "role": "Executive Member",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Satyajeet",
+      "role": "Executive Member",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Shivanshu Kumar",
+      "role": "Executive Member",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Aniket Kumar",
+      "role": "Graphics Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Nitin Gupta",
+      "role": "Graphics & Magazine Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Ankit Raushan",
+      "role": "Photography Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Abheek Kanth",
+      "role": "Social Media & Videography Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Bhavya Kuryawat",
+      "role": "Sponsorship Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Sumit Kumar Prasad",
+      "role": "Sponsorship Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Gaurav",
+      "role": "Technical Coordinator",
+      "img": "",
+      "instagram": "#"
+    },
+    {
+      "name": "Rana Aryan Ara",
+      "role": "Technical Coordinator",
+      "img": "",
+      "instagram": "#"
+    }
+  ],
   "team": [
     {
       "name": "Ayush Bhushan",
@@ -194,41 +378,25 @@
   ],
   "publications": [
     {
-      "title": "Inkwell — Annual Magazine 2025",
+      "title": "Annual Magazine 2025",
       "type": "Magazine",
       "date": "March 2025",
       "cover": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=800",
-      "description": "A 96-page anthology of student poetry, photography and long-form essays.",
-      "link": "#"
+      "description": "A comprehensive anthology of student poetry, photography, and long-form essays.",
+      "link": "https://drive.google.com/file/d/1nCF36bU-jKRtKBcHq55O6Jt_bOwk89wj/view?usp=sharing"
     },
     {
-      "title": "Abhiyantran 2026 — Aftermovie Booklet",
-      "type": "Event Booklet",
+      "title": "CCS Publication",
+      "type": "Booklet",
       "date": "February 2026",
       "cover": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
-      "description": "Behind-the-scenes look at our flagship cultural-tech fest.",
-      "link": "#"
-    },
-    {
-      "title": "Verse — Quarterly Zine",
-      "type": "Zine",
-      "date": "January 2025",
-      "cover": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800",
-      "description": "Short fiction and visual art from the campus underground.",
-      "link": "#"
-    },
-    {
-      "title": "Frame — Photo Journal",
-      "type": "Photo Book",
-      "date": "November 2024",
-      "cover": "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?w=800",
-      "description": "Year in pictures, curated by the CCS photography circle.",
-      "link": "#"
+      "description": "An introductory booklet highlighting the core structure, clubs, and creative roadmap of the society.",
+      "link": "https://canva.link/6kpq4y0iqwz5yaf"
     }
   ],
   "contact": {
     "email": "ccs@nitsikkim.ac.in",
-    "address": "Student Activity Center, National Institute of Technology Sikkim, Ravangla, South Sikkim, 737139",
+    "address": "Cultural & Creative Society Office, Near Mechanical Workshop, National Institute of Technology Sikkim, Ravangla South Sikkim, 737139",
     "socials": {
       "instagram": "https://instagram.com/",
       "youtube": "https://youtube.com/",

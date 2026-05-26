@@ -24,7 +24,7 @@
     </div>
   </div>
   <div class="footer-bottom">
-    <span>© <?= date('Y') ?> <?= e($d['society']['shortName']) ?>. Crafted with care.</span>
+    <span>© <?= date('Y') ?> <?= e($d['society']['name']) ?>. Crafted with care.</span>
     <span>Since <?= e($d['society']['established']) ?></span>
   </div>
 </footer>

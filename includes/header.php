@@ -20,7 +20,7 @@ $current = $current ?? 'home';
 <header class="nav">
   <a href="index.php" class="brand">
     <img src="assets/img/logo.jpg" alt="CCS Logo" class="brand-logo" />
-    <span class="brand-text"><?= e($d['society']['shortName']) ?></span>
+    <span class="brand-text"><?= e($d['society']['name']) ?></span>
   </a>
   <nav class="nav-links">
     <a href="index.php" class="<?= $current==='home'?'active':'' ?>">Home</a>

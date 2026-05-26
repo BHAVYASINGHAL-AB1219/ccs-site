@@ -35,3 +35,31 @@ if (lb) {
 document.querySelectorAll('.marquee-track').forEach(t => {
   t.innerHTML += t.innerHTML;
 });
+
+// Team switcher toggle
+const toggleBtns = document.querySelectorAll('.team-toggle-btn');
+const teamGroups = document.querySelectorAll('.team-group');
+
+toggleBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    const target = btn.dataset.target;
+    
+    // Switch active class on buttons
+    toggleBtns.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    
+    // Switch active group with a smooth fade
+    teamGroups.forEach(group => {
+      if (group.id === target) {
+        group.classList.add('active');
+        // Ensure child reveal items get the 'in' class triggered so they are visible
+        setTimeout(() => {
+          group.querySelectorAll('.reveal').forEach(el => el.classList.add('in'));
+        }, 50);
+      } else {
+        group.classList.remove('active');
+      }
+    });
+  });
+});
+
