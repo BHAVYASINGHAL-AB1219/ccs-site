@@ -47,7 +47,7 @@
       "name": "Rajat Malviya",
       "role": "Vice President",
       "roll": "B230080EE",
-      "img": "",
+      "img": "assets/img/team/rajat.jpeg",
       "instagram": "#"
     },
     {
@@ -83,55 +83,55 @@
     {
       "name": "Kumar Sagar",
       "role": "Content & Event Coordinator",
-      "img": "",
+      "img": "assets/img/team/sagar.jpg",
       "instagram": "#"
     },
     {
       "name": "Mudit Sharma",
       "role": "Content & Cultural Coordinator",
-      "img": "",
+      "img": "assets/img/team/Mudit.jpg",
       "instagram": "#"
     },
     {
       "name": "Bhavya Singhal",
       "role": "Web Development Coordinator",
-      "img": "",
+      "img": "assets/img/team/Bhavya.jpeg",
       "instagram": "#"
     },
     {
       "name": "Dinesh Saini",
       "role": "Web Development Coordinator",
-      "img": "",
+      "img": "assets/img/team/Dinesh.jpeg",
       "instagram": "#"
     },
     {
       "name": "Rythm Longia",
       "role": "Web Development Coordinator",
-      "img": "",
+      "img": "assets/img/team/Rythm.jpg",
       "instagram": "#"
     },
     {
       "name": "Ayush Raj Singh",
       "role": "Alumni Interaction Coordinator",
-      "img": "",
+      "img": "assets/img/team/Ayush_Raj_Singh.webp",
       "instagram": "#"
     },
     {
       "name": "Kumar Satyam Sarvesh",
       "role": "Alumni Interaction Coordinator",
-      "img": "",
+      "img": "assets/img/team/Kumar_Satyam.jpeg",
       "instagram": "#"
     },
     {
-      "name": "Shobit",
+      "name": "Shobhit",
       "role": "Alumni Interaction Coordinator",
-      "img": "",
+      "img": "assets/img/team/Shobhit.jpeg",
       "instagram": "#"
     },
     {
       "name": "Swastika Bauri",
       "role": "Cultural Coordinator",
-      "img": "",
+      "img": "assets/img/team/Swastika.jpg",
       "instagram": "#"
     },
     {
@@ -143,13 +143,13 @@
     {
       "name": "Kartikeya Shahi",
       "role": "Event & Magazine Coordinator",
-      "img": "",
+      "img": "assets/img/team/Kartikeya.jpeg",
       "instagram": "#"
     },
     {
       "name": "Aryan Singh",
       "role": "Executive Member",
-      "img": "",
+      "img": "assets/img/team/aryan_singh.jpg",
       "instagram": "#"
     },
     {
@@ -167,31 +167,31 @@
     {
       "name": "Shivanshu Kumar",
       "role": "Executive Member",
-      "img": "",
+      "img": "assets/img/team/Shivanshu.png",
       "instagram": "#"
     },
     {
       "name": "Aniket Kumar",
       "role": "Graphics Coordinator",
-      "img": "",
+      "img": "assets/img/team/Aniket.jpeg",
       "instagram": "#"
     },
     {
       "name": "Nitin Gupta",
       "role": "Graphics & Magazine Coordinator",
-      "img": "",
+      "img": "assets/img/team/Nitin_Gupta.jpg",
       "instagram": "#"
     },
     {
       "name": "Ankit Raushan",
       "role": "Photography Coordinator",
-      "img": "",
+      "img": "assets/img/team/Ankit_Raushan.jpeg",
       "instagram": "#"
     },
     {
       "name": "Abheek Kanth",
       "role": "Social Media & Videography Coordinator",
-      "img": "",
+      "img": "assets/img/team/Abheek.jpg",
       "instagram": "#"
     },
     {
@@ -215,7 +215,7 @@
     {
       "name": "Rana Aryan Ara",
       "role": "Technical Coordinator",
-      "img": "",
+      "img": "assets/img/team/Rana_Aryan_Ara.jpg",
       "instagram": "#"
     }
   ],
