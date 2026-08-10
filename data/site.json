@@ -16,6 +16,29 @@
     ],
     "mission": "To serve as a central forum that promotes, preserves, and celebrates all cultural, creative, and technical student-led activities at the institute and external levels.",
     "vision": "To build a unified and approachable platform that serves as the heart of student life at NIT Sikkim, by acting as a bridge between students, faculty, and administration, where ideas thrive, talents are celebrated, and challenges evolve into opportunities for growth.",
+    "patron": {
+      "name": "Prof. Mahesh Chandra Govil",
+      "role": "Patron",
+      "society": "Cultural and Creative Society",
+      "img": "assets/img/team/Mahesh_chandra_govil.png"
+    },
+    "advisors": [
+      {
+        "name": "Dr. Bam Bahadur Sinha",
+        "role": "Faculty Advisor",
+        "img": "assets/img/team/bambahadursinha.jpg"
+      },
+      {
+        "name": "Ram Nepal",
+        "role": "Assistant Registrar",
+        "img": "assets/img/team/ramnepal.jpeg"
+      },
+      {
+        "name": "Sahil Minda",
+        "role": "Assistant Registrar (Finance & Accounts)",
+        "img": "assets/img/team/minda.sahil.jpeg"
+      }
+    ],
     "highlights": [
       {
         "value": "8+",
@@ -331,48 +354,148 @@
   ],
   "gallery": [
     {
-      "src": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200",
-      "title": "Abhiyantran Opening Night",
+      "src": "assets/img/abhiyantran/20260425_145931.JPEG",
+      "title": "Abhiyantran Moment",
       "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200",
-      "title": "Battle of Bands",
+      "src": "assets/img/abhiyantran/31219d57-8a02-402a-befb-a018181f3ac4.jpg",
+      "title": "Abhiyantran Moment",
       "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=1200",
-      "title": "Spotlight Solo",
+      "src": "assets/img/abhiyantran/7ffc40f2-adb1-490a-ba73-444356a4eb56.jpg",
+      "title": "Abhiyantran Moment",
       "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=1200",
-      "title": "Crowd Energy",
+      "src": "assets/img/abhiyantran/DSC00325.JPG",
+      "title": "Abhiyantran Moment",
       "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=1200",
-      "title": "Dance Wars",
-      "event": "Rhythms"
+      "src": "assets/img/abhiyantran/IMG_1218.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=1200",
-      "title": "Open Mic",
-      "event": "Verse Nights"
+      "src": "assets/img/abhiyantran/IMG_1336.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?w=1200",
-      "title": "Theatre Showcase",
-      "event": "Manchan"
+      "src": "assets/img/abhiyantran/IMG_1443.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=1200",
-      "title": "Art Exhibit",
-      "event": "Canvas"
+      "src": "assets/img/abhiyantran/IMG_1488.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
     },
     {
-      "src": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200",
-      "title": "Closing Ceremony",
+      "src": "assets/img/abhiyantran/IMG_1492.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1506.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1638.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1647.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1657.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1708.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1751.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1764.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1765.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1776.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1906.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1947.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1973.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_1985.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_2037.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_2061.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_2130.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_2185.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_2190.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/IMG_2253.JPG",
+      "title": "Abhiyantran Moment",
+      "event": "Abhiyantran 2026"
+    },
+    {
+      "src": "assets/img/abhiyantran/be0eee2b-1d5a-4088-95eb-67c1da3e6fa5.jpg",
+      "title": "Abhiyantran Moment",
       "event": "Abhiyantran 2026"
     }
   ],
