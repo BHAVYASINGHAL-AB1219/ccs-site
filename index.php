@@ -7,8 +7,25 @@ $pageDesc = $d['society']['tagline'];
 include __DIR__ . '/includes/header.php';
 ?>
 <section class="hero">
-  <div class="eyebrow">Cultural & Creative Society · <?= e($d['society']['college']) ?></div>
-  <h1>The campus stage,<br/><em>built by students.</em></h1>
+  <div class="hero-logos">
+    <div class="hero-logo-card">
+      <div class="hero-logo-ring">
+        <img src="assets/img/logo_nit.png" alt="NIT Sikkim Logo" class="hero-logo-img"/>
+      </div>
+      <div class="hero-logo-label">NIT Sikkim</div>
+    </div>
+    <div class="hero-logo-divider">
+      <span class="hero-logo-divider-line"></span>
+      <span class="hero-logo-divider-icon">✦</span>
+      <span class="hero-logo-divider-line"></span>
+    </div>
+    <div class="hero-logo-card">
+      <div class="hero-logo-ring">
+        <img src="assets/img/logo.jpg" alt="CCS Logo" class="hero-logo-img"/>
+      </div>
+      <div class="hero-logo-label">Cultural &amp; Creative Society</div>
+    </div>
+  </div>
   <p class="hero-sub"><?= e($d['about']['intro']) ?></p>
   <div class="hero-cta">
     <a href="gallery.php" class="btn btn-primary">See Abhiyantran 26 →</a>
