@@ -21,7 +21,14 @@
     <div>
       <div class="footer-h">Reach us</div>
       <a href="mailto:<?= e($d['contact']['email']) ?>"><?= e($d['contact']['email']) ?></a>
-      <p class="footer-sub"><?= e($d['contact']['address']) ?></p>
+      <p class="footer-sub" style="margin-bottom: 1.5rem;"><?= e($d['contact']['address']) ?></p>
+
+      <?php if (!empty($d['contact']['phones'])): ?>
+        <div class="footer-h">Direct Lines</div>
+        <?php foreach ($d['contact']['phones'] as $phone): ?>
+          <a href="tel:<?= e(str_replace(' ', '', $phone['number'])) ?>"><?= e($phone['name']) ?>: <?= e($phone['number']) ?></a>
+        <?php endforeach; ?>
+      <?php endif; ?>
     </div>
   </div>
   <div class="footer-bottom">

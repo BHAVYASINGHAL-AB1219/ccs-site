@@ -101,7 +101,7 @@
       "name": "Satvik Choudhary",
       "role": "Convener",
       "roll": "B230022CS",
-      "img": "",
+      "img": "assets/img/team/satvik.jpg",
       "instagram": "#"
     },
     {
@@ -526,6 +526,16 @@
       "instagram": "https://instagram.com/",
       "youtube": "https://youtube.com/",
       "linkedin": "https://www.linkedin.com/company/cultural-creative-society/"
-    }
+    },
+    "phones": [
+      {
+        "name": "Sohit (President)",
+        "number": "+91 9720585630"
+      },
+      {
+        "name": "Rajat Malviya (Vice President)",
+        "number": "+91 8016988562"
+      }
+    ]
   }
 }
