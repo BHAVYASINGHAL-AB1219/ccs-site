@@ -50,7 +50,7 @@ include __DIR__ . '/includes/header.php';
   <div class="section-head" style="margin-top: 4rem; margin-bottom: 3rem;">
     <h2>Our <em>Mentors & Administration</em></h2>
   </div>
-  <div class="team-grid" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
+  <div class="team-grid" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
     <?php foreach ($d['about']['advisors'] as $advisor): ?>
     <article class="member" style="max-width: 350px; width: 100%;">
       <?php if (!empty($advisor['img']) && file_exists(__DIR__ . '/' . $advisor['img'])): ?>

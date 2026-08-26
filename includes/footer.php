@@ -11,6 +11,7 @@
     </div>
     <div>
       <div class="footer-h">Explore</div>
+      <a href="index.php">Home</a>
       <a href="about.php">About</a>
       <a href="team.php">Team</a>
       <a href="gallery.php">Gallery</a>

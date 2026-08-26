@@ -22,9 +22,9 @@ include __DIR__ . '/includes/header.php';
     <div class="cinfo">
       <div class="cinfo-l">Follow</div>
       <div class="socials">
-        <a href="javascript:void(0)" class="disabled" title="Coming Soon">IG</a>
-        <a href="javascript:void(0)" class="disabled" title="Coming Soon">YT</a>
-        <a href="javascript:void(0)" class="disabled" title="Coming Soon">in</a>
+        <a href="<?= e($d['contact']['socials']['instagram']) ?>" target="_blank" rel="noopener noreferrer">IG</a>
+        <a href="<?= e($d['contact']['socials']['youtube']) ?>" target="_blank" rel="noopener noreferrer">YT</a>
+        <a href="<?= e($d['contact']['socials']['linkedin']) ?>" target="_blank" rel="noopener noreferrer">in</a>
       </div>
     </div>
   </div>

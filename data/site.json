@@ -24,9 +24,19 @@
     },
     "advisors": [
       {
+        "name": "Dr. Nidhi Govil",
+        "role": "Faculty Advisor",
+        "img": "assets/img/team/nidhi_govil.jpeg"
+      },
+      {
         "name": "Dr. Bam Bahadur Sinha",
         "role": "Faculty Advisor",
         "img": "assets/img/team/bambahadursinha.jpg"
+      },
+      {
+        "name": "Dr. Shakti Vasisth",
+        "role": "Faculty Advisor",
+        "img": "assets/img/team/shakti_vasisth.jpeg"
       },
       {
         "name": "Ram Nepal",
@@ -523,7 +533,7 @@
     "socials": {
       "instagram": "https://instagram.com/",
       "youtube": "https://youtube.com/",
-      "linkedin": "https://linkedin.com/"
+      "linkedin": "https://www.linkedin.com/company/cultural-creative-society/"
     }
   }
 }
